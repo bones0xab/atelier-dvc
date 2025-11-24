@@ -1,0 +1,53 @@
+commit f71dd9bc1c616968f1631f092d4fab401e9d75cc (HEAD -> main, origin/main)
+Author: Abdo Tonio <abdlkbir.dacosta12@gmail.com>
+Date:   Mon Nov 24 11:29:17 2025 +0100
+
+    last check commit
+
+commit 65bef668f59f2b959acb057d77c231c28732f0f9
+Author: Abdo Tonio <abdlkbir.dacosta12@gmail.com>
+Date:   Mon Nov 24 11:23:31 2025 +0100
+
+    addition of dvc.yaml
+
+commit 50056ec16c81e24557bf31ad1c1a71d1718497b2
+Author: Abdo Tonio <abdlkbir.dacosta12@gmail.com>
+Date:   Mon Nov 24 11:20:49 2025 +0100
+
+    addition of the evaluate file
+
+commit 85b022740ee42d13b107d3391b3467299b07c551
+Author: Abdo Tonio <abdlkbir.dacosta12@gmail.com>
+Date:   Mon Nov 24 11:18:13 2025 +0100
+
+    adding the train file
+
+commit 151a23e88677fc084b5fd06cbc4199727c1cdc78
+Author: Abdo Tonio <abdlkbir.dacosta12@gmail.com>
+Date:   Mon Nov 24 11:15:41 2025 +0100
+
+    adding the params file
+
+commit 1f1b44c6045f06cfdacaff50dd7eb5977158cd27
+Author: Abdo Tonio <abdlkbir.dacosta12@gmail.com>
+Date:   Mon Nov 24 11:05:23 2025 +0100
+
+    Add preprocessed Iris dataset tracked by DVC
+
+commit 4aa68144c85fbb8f4d1de49cddc7636351d40988
+Author: Abdo Tonio <abdlkbir.dacosta12@gmail.com>
+Date:   Mon Nov 24 09:58:43 2025 +0100
+
+    adding the iris and changing the gitignore to handle the original file
+
+commit 8e11c67cb6589cb5f6df3d4cb29e441d05496452
+Author: Abdo Tonio <abdlkbir.dacosta12@gmail.com>
+Date:   Mon Nov 24 09:53:30 2025 +0100
+
+    adding the dvc init
+
+commit e8a440c184cf9198f8bad9b0fc0ca6f2f794073b
+Author: Abdo Tonio <abdlkbir.dacosta12@gmail.com>
+Date:   Mon Nov 24 09:45:52 2025 +0100
+
+    first commit
